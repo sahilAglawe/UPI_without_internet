@@ -11,6 +11,7 @@
         <relativePath/>
     </parent>
 
+
     <groupId>com.demo</groupId>
     <artifactId>upi-offline-mesh</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -23,6 +24,7 @@
         <npm.version>10.8.2</npm.version>
         <skip.frontend.build>false</skip.frontend.build>
     </properties>
+
 
     <dependencies>
         <dependency>
@@ -56,6 +58,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
 
     <build>
         <plugins>
